@@ -1,2 +1,2 @@
 # MetagenomeSimulationPipeline
-The metagenome simulation pipeline was permanently moved to it's new destination: https://github.com/CAMI-challenge/CAMISIM
+The metagenome simulation pipeline was permanently moved to its new destination: https://github.com/CAMI-challenge/CAMISIM
